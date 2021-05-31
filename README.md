@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hey! :wave:
 
-<!--
-**Interligo/Interligo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Interligo**, my mom calls me Ruslan, but HR-managers call me: "Hello, we have considered your candidacy, but we are not ready to offer you a work, because you do not have a technical education."
 
-Here are some ideas to get you started:
+Yes, I'm a fucking master of law and I'm trying to make my dream come true.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I dropped a successful career as a lawyer for the opportunity to earn for life by not what I good at, but by what makes me happy :)
+
+I’ve learned the basics of programming on my own and my first programming language is **Python**. Here you can make sure that I really can code something. I use every opportunity to develop myself professionally. Yes, I write all this in English in order to practice additionally :)
+
+I am interested in everything in programming, but so far, probably I’m good at **web-programming** mostly.
+
+***
+
+### My stack of technologies:
+
+Programming languages and frameworks: Python, Django, DRF, Bash.
+
+Databases: SQL (PostgreSQL, MySQL), ORM (Django ORM, SQLAlhemy)
+
+Tests: Django tests, pytest, unittest.
+
+***
+
+Welcome to my github!
