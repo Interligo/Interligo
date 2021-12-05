@@ -8,9 +8,9 @@ Now I work as a QA Automation Engineer in Ozon.Travel, so my activity in GitHub 
 
 ### My stack of technologies:
 
-Programming languages and frameworks: Python, TypeScript, Git, Bash, Docker.
+Programming languages and frameworks: Python, Go, TypeScript, Git, Bash, Docker.
 
-Databases: SQL (PostgreSQL, MySQL), ORM (Django ORM, SQLAlhemy)
+Databases: SQL (PostgreSQL, MySQL), ORM (Django ORM, SQLAlhemy).
 
 Tests: Django tests, pytest, unittest.
 
