@@ -8,7 +8,7 @@ Now I work as a QA Automation Engineer in Ozon.Travel, so my activity in GitHub 
 
 ### My stack of technologies:
 
-Programming languages: Python, Go, TypeScript.
+Programming languages: Python, TypeScript.
 
 Frameworks and other staff: Git, Bash, Docker, Allure, Prometheus, Grafana.
 
