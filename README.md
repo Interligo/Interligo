@@ -19,3 +19,7 @@ Tests: pytest, unittest, mocha JS, WebdriverIO, Selenium, Django tests.
 ***
 
 Welcome to my github!
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Interligo&show_icons=true&theme=great-gatsby)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Interligo&theme=great-gatsby)
