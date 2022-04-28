@@ -10,11 +10,11 @@ Now I work as a QA Automation Engineer in Ozon.Travel, so my activity in GitHub 
 
 Programming languages: Python, TypeScript.
 
-Frameworks and other staff: Git, Bash, Docker, Allure, Prometheus, Grafana.
+Frameworks and other staff: Git, Bash, Docker, Prometheus, Grafana.
 
-Databases: SQL (PostgreSQL, MySQL), ORM (Django ORM, SQLAlhemy).
+Databases: SQL, ORM SQLAlhemy.
 
-Tests: pytest, unittest, mocha JS, WebdriverIO, Selenium, Django tests.
+Tests: Pytest, Selenium, Mocha, WebdriverIO, Allure.
 
 ***
 
