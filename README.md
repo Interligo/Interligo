@@ -14,7 +14,7 @@ Frameworks and other staff: Git, Bash, Docker, Prometheus, Grafana.
 
 Databases: SQL, ORM SQLAlhemy.
 
-Tests: Pytest, Selenium, Mocha, WebdriverIO, Allure.
+Tests: Pytest, Selenium, Mocha, WebdriverIO, Allure, Postman.
 
 ***
 
